@@ -4,4 +4,5 @@ CRISP-DM stands for a cross-industry process for data mining. The CRISP-DM metho
 ## Essnetial Steps for CRISP-DM
 ```
 Business Understanding 
-Data Understanding ```
+Data Understanding 
+```
